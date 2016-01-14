@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketServer", "AsyncSocketServer\AsyncSocketServer.csproj", "{75736EEF-5ED5-4CA4-8B99-BBF9489E6426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServerAsync", "SocketServerAsync\SocketServerAsync.csproj", "{5BF573A0-B6CF-4FEE-A1C1-E0BFC4499E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedWifi", "ManagedWifi\ManagedWifi.csproj", "{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75736EEF-5ED5-4CA4-8B99-BBF9489E6426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75736EEF-5ED5-4CA4-8B99-BBF9489E6426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75736EEF-5ED5-4CA4-8B99-BBF9489E6426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75736EEF-5ED5-4CA4-8B99-BBF9489E6426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF573A0-B6CF-4FEE-A1C1-E0BFC4499E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF573A0-B6CF-4FEE-A1C1-E0BFC4499E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF573A0-B6CF-4FEE-A1C1-E0BFC4499E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF573A0-B6CF-4FEE-A1C1-E0BFC4499E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
